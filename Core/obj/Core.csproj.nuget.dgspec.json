@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Мухаммед\\Desktop\\WORKSPACE\\FloriaPr\\Core\\Core.csproj": {}
+    "C:\\Users\\ClassTime\\Desktop\\WorkSpace\\MhmmdCodeHometasks\\New folder\\FloriaTask\\Core\\Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Мухаммед\\Desktop\\WORKSPACE\\FloriaPr\\Core\\Core.csproj": {
+    "C:\\Users\\ClassTime\\Desktop\\WorkSpace\\MhmmdCodeHometasks\\New folder\\FloriaTask\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Мухаммед\\Desktop\\WORKSPACE\\FloriaPr\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\ClassTime\\Desktop\\WorkSpace\\MhmmdCodeHometasks\\New folder\\FloriaTask\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\Мухаммед\\Desktop\\WORKSPACE\\FloriaPr\\Core\\Core.csproj",
-        "packagesPath": "C:\\Users\\Мухаммед\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Мухаммед\\Desktop\\WORKSPACE\\FloriaPr\\Core\\obj\\",
+        "projectPath": "C:\\Users\\ClassTime\\Desktop\\WorkSpace\\MhmmdCodeHometasks\\New folder\\FloriaTask\\Core\\Core.csproj",
+        "packagesPath": "C:\\Users\\ClassTime\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ClassTime\\Desktop\\WorkSpace\\MhmmdCodeHometasks\\New folder\\FloriaTask\\Core\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Мухаммед\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ClassTime\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

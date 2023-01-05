@@ -1,6 +1,15 @@
+using DataAccess.Contexts;
+using Microsoft.EntityFrameworkCore;
+
 var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddControllersWithViews(); 
+string connectionStr = builder.Configuration.GetConnectionString("DefaultConnection");
+builder.Services.AddDbContext<AppDbContext>(
+      options => options.UseSqlServer(connectionStr));
+
+
+
 var app = builder.Build();
 
 

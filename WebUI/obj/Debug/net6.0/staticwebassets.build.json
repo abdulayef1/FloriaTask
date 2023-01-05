@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "kYvDITi5im887nyBafIBcFZ0aOZ1tnKipg1940IswVk=",
+  "Hash": "L0YFpL6kvOoEeNyom2f0ytPNZkQWlWsxgXkD9oAt2VM=",
   "Source": "WebUI",
   "BasePath": "_content/WebUI",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "WebUI\\wwwroot",
       "Source": "WebUI",
-      "ContentRoot": "C:\\Users\\Мухаммед\\Desktop\\WORKSPACE\\FloriaPr\\WebUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ClassTime\\Desktop\\WorkSpace\\MhmmdCodeHometasks\\New folder\\FloriaTask\\WebUI\\wwwroot\\",
       "BasePath": "_content/WebUI",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Мухаммед\\Desktop\\WORKSPACE\\FloriaPr\\WebUI\\wwwroot\\assets\\css\\style.css",
+      "Identity": "C:\\Users\\ClassTime\\Desktop\\WorkSpace\\MhmmdCodeHometasks\\New folder\\FloriaTask\\WebUI\\wwwroot\\assets\\css\\style.css",
       "SourceId": "WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Мухаммед\\Desktop\\WORKSPACE\\FloriaPr\\WebUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ClassTime\\Desktop\\WorkSpace\\MhmmdCodeHometasks\\New folder\\FloriaTask\\WebUI\\wwwroot\\",
       "BasePath": "_content/WebUI",
       "RelativePath": "assets/css/style.css",
       "AssetKind": "All",
@@ -34,10 +34,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\style.css"
     },
     {
-      "Identity": "C:\\Users\\Мухаммед\\Desktop\\WORKSPACE\\FloriaPr\\WebUI\\wwwroot\\assets\\css\\style.css.map",
+      "Identity": "C:\\Users\\ClassTime\\Desktop\\WorkSpace\\MhmmdCodeHometasks\\New folder\\FloriaTask\\WebUI\\wwwroot\\assets\\css\\style.css.map",
       "SourceId": "WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Мухаммед\\Desktop\\WORKSPACE\\FloriaPr\\WebUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ClassTime\\Desktop\\WorkSpace\\MhmmdCodeHometasks\\New folder\\FloriaTask\\WebUI\\wwwroot\\",
       "BasePath": "_content/WebUI",
       "RelativePath": "assets/css/style.css.map",
       "AssetKind": "All",
@@ -51,10 +51,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\style.css.map"
     },
     {
-      "Identity": "C:\\Users\\Мухаммед\\Desktop\\WORKSPACE\\FloriaPr\\WebUI\\wwwroot\\assets\\img\\blog-feature-img-1.jpg",
+      "Identity": "C:\\Users\\ClassTime\\Desktop\\WorkSpace\\MhmmdCodeHometasks\\New folder\\FloriaTask\\WebUI\\wwwroot\\assets\\img\\blog-feature-img-1.jpg",
       "SourceId": "WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Мухаммед\\Desktop\\WORKSPACE\\FloriaPr\\WebUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ClassTime\\Desktop\\WorkSpace\\MhmmdCodeHometasks\\New folder\\FloriaTask\\WebUI\\wwwroot\\",
       "BasePath": "_content/WebUI",
       "RelativePath": "assets/img/blog-feature-img-1.jpg",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\blog-feature-img-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\Мухаммед\\Desktop\\WORKSPACE\\FloriaPr\\WebUI\\wwwroot\\assets\\img\\blog-feature-img-3.jpg",
+      "Identity": "C:\\Users\\ClassTime\\Desktop\\WorkSpace\\MhmmdCodeHometasks\\New folder\\FloriaTask\\WebUI\\wwwroot\\assets\\img\\blog-feature-img-3.jpg",
       "SourceId": "WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Мухаммед\\Desktop\\WORKSPACE\\FloriaPr\\WebUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ClassTime\\Desktop\\WorkSpace\\MhmmdCodeHometasks\\New folder\\FloriaTask\\WebUI\\wwwroot\\",
       "BasePath": "_content/WebUI",
       "RelativePath": "assets/img/blog-feature-img-3.jpg",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\blog-feature-img-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\Мухаммед\\Desktop\\WORKSPACE\\FloriaPr\\WebUI\\wwwroot\\assets\\img\\blog-feature-img-4.jpg",
+      "Identity": "C:\\Users\\ClassTime\\Desktop\\WorkSpace\\MhmmdCodeHometasks\\New folder\\FloriaTask\\WebUI\\wwwroot\\assets\\img\\blog-feature-img-4.jpg",
       "SourceId": "WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Мухаммед\\Desktop\\WORKSPACE\\FloriaPr\\WebUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ClassTime\\Desktop\\WorkSpace\\MhmmdCodeHometasks\\New folder\\FloriaTask\\WebUI\\wwwroot\\",
       "BasePath": "_content/WebUI",
       "RelativePath": "assets/img/blog-feature-img-4.jpg",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\blog-feature-img-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\Мухаммед\\Desktop\\WORKSPACE\\FloriaPr\\WebUI\\wwwroot\\assets\\img\\favicon.png",
+      "Identity": "C:\\Users\\ClassTime\\Desktop\\WorkSpace\\MhmmdCodeHometasks\\New folder\\FloriaTask\\WebUI\\wwwroot\\assets\\img\\favicon.png",
       "SourceId": "WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Мухаммед\\Desktop\\WORKSPACE\\FloriaPr\\WebUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ClassTime\\Desktop\\WorkSpace\\MhmmdCodeHometasks\\New folder\\FloriaTask\\WebUI\\wwwroot\\",
       "BasePath": "_content/WebUI",
       "RelativePath": "assets/img/favicon.png",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\favicon.png"
     },
     {
-      "Identity": "C:\\Users\\Мухаммед\\Desktop\\WORKSPACE\\FloriaPr\\WebUI\\wwwroot\\assets\\img\\footer-bottom-1.png",
+      "Identity": "C:\\Users\\ClassTime\\Desktop\\WorkSpace\\MhmmdCodeHometasks\\New folder\\FloriaTask\\WebUI\\wwwroot\\assets\\img\\footer-bottom-1.png",
       "SourceId": "WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Мухаммед\\Desktop\\WORKSPACE\\FloriaPr\\WebUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ClassTime\\Desktop\\WorkSpace\\MhmmdCodeHometasks\\New folder\\FloriaTask\\WebUI\\wwwroot\\",
       "BasePath": "_content/WebUI",
       "RelativePath": "assets/img/footer-bottom-1.png",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\footer-bottom-1.png"
     },
     {
-      "Identity": "C:\\Users\\Мухаммед\\Desktop\\WORKSPACE\\FloriaPr\\WebUI\\wwwroot\\assets\\img\\h1-custom-icon.png",
+      "Identity": "C:\\Users\\ClassTime\\Desktop\\WorkSpace\\MhmmdCodeHometasks\\New folder\\FloriaTask\\WebUI\\wwwroot\\assets\\img\\h1-custom-icon.png",
       "SourceId": "WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Мухаммед\\Desktop\\WORKSPACE\\FloriaPr\\WebUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ClassTime\\Desktop\\WorkSpace\\MhmmdCodeHometasks\\New folder\\FloriaTask\\WebUI\\wwwroot\\",
       "BasePath": "_content/WebUI",
       "RelativePath": "assets/img/h1-custom-icon.png",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\h1-custom-icon.png"
     },
     {
-      "Identity": "C:\\Users\\Мухаммед\\Desktop\\WORKSPACE\\FloriaPr\\WebUI\\wwwroot\\assets\\img\\h2-sign-img.png",
+      "Identity": "C:\\Users\\ClassTime\\Desktop\\WorkSpace\\MhmmdCodeHometasks\\New folder\\FloriaTask\\WebUI\\wwwroot\\assets\\img\\h2-sign-img.png",
       "SourceId": "WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Мухаммед\\Desktop\\WORKSPACE\\FloriaPr\\WebUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ClassTime\\Desktop\\WorkSpace\\MhmmdCodeHometasks\\New folder\\FloriaTask\\WebUI\\wwwroot\\",
       "BasePath": "_content/WebUI",
       "RelativePath": "assets/img/h2-sign-img.png",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\h2-sign-img.png"
     },
     {
-      "Identity": "C:\\Users\\Мухаммед\\Desktop\\WORKSPACE\\FloriaPr\\WebUI\\wwwroot\\assets\\img\\h3-background-img.jpg",
+      "Identity": "C:\\Users\\ClassTime\\Desktop\\WorkSpace\\MhmmdCodeHometasks\\New folder\\FloriaTask\\WebUI\\wwwroot\\assets\\img\\h3-background-img.jpg",
       "SourceId": "WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Мухаммед\\Desktop\\WORKSPACE\\FloriaPr\\WebUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ClassTime\\Desktop\\WorkSpace\\MhmmdCodeHometasks\\New folder\\FloriaTask\\WebUI\\wwwroot\\",
       "BasePath": "_content/WebUI",
       "RelativePath": "assets/img/h3-background-img.jpg",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\h3-background-img.jpg"
     },
     {
-      "Identity": "C:\\Users\\Мухаммед\\Desktop\\WORKSPACE\\FloriaPr\\WebUI\\wwwroot\\assets\\img\\h3-slider-background.jpg",
+      "Identity": "C:\\Users\\ClassTime\\Desktop\\WorkSpace\\MhmmdCodeHometasks\\New folder\\FloriaTask\\WebUI\\wwwroot\\assets\\img\\h3-slider-background.jpg",
       "SourceId": "WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Мухаммед\\Desktop\\WORKSPACE\\FloriaPr\\WebUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ClassTime\\Desktop\\WorkSpace\\MhmmdCodeHometasks\\New folder\\FloriaTask\\WebUI\\wwwroot\\",
       "BasePath": "_content/WebUI",
       "RelativePath": "assets/img/h3-slider-background.jpg",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\h3-slider-background.jpg"
     },
     {
-      "Identity": "C:\\Users\\Мухаммед\\Desktop\\WORKSPACE\\FloriaPr\\WebUI\\wwwroot\\assets\\img\\h3-slider-background-2.jpg",
+      "Identity": "C:\\Users\\ClassTime\\Desktop\\WorkSpace\\MhmmdCodeHometasks\\New folder\\FloriaTask\\WebUI\\wwwroot\\assets\\img\\h3-slider-background-2.jpg",
       "SourceId": "WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Мухаммед\\Desktop\\WORKSPACE\\FloriaPr\\WebUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ClassTime\\Desktop\\WorkSpace\\MhmmdCodeHometasks\\New folder\\FloriaTask\\WebUI\\wwwroot\\",
       "BasePath": "_content/WebUI",
       "RelativePath": "assets/img/h3-slider-background-2.jpg",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\h3-slider-background-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Мухаммед\\Desktop\\WORKSPACE\\FloriaPr\\WebUI\\wwwroot\\assets\\img\\h3-slider-background-3.jpg",
+      "Identity": "C:\\Users\\ClassTime\\Desktop\\WorkSpace\\MhmmdCodeHometasks\\New folder\\FloriaTask\\WebUI\\wwwroot\\assets\\img\\h3-slider-background-3.jpg",
       "SourceId": "WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Мухаммед\\Desktop\\WORKSPACE\\FloriaPr\\WebUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ClassTime\\Desktop\\WorkSpace\\MhmmdCodeHometasks\\New folder\\FloriaTask\\WebUI\\wwwroot\\",
       "BasePath": "_content/WebUI",
       "RelativePath": "assets/img/h3-slider-background-3.jpg",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\h3-slider-background-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\Мухаммед\\Desktop\\WORKSPACE\\FloriaPr\\WebUI\\wwwroot\\assets\\img\\h3-team-img-1.png",
+      "Identity": "C:\\Users\\ClassTime\\Desktop\\WorkSpace\\MhmmdCodeHometasks\\New folder\\FloriaTask\\WebUI\\wwwroot\\assets\\img\\h3-team-img-1.png",
       "SourceId": "WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Мухаммед\\Desktop\\WORKSPACE\\FloriaPr\\WebUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ClassTime\\Desktop\\WorkSpace\\MhmmdCodeHometasks\\New folder\\FloriaTask\\WebUI\\wwwroot\\",
       "BasePath": "_content/WebUI",
       "RelativePath": "assets/img/h3-team-img-1.png",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\h3-team-img-1.png"
     },
     {
-      "Identity": "C:\\Users\\Мухаммед\\Desktop\\WORKSPACE\\FloriaPr\\WebUI\\wwwroot\\assets\\img\\h3-team-img-2.png",
+      "Identity": "C:\\Users\\ClassTime\\Desktop\\WorkSpace\\MhmmdCodeHometasks\\New folder\\FloriaTask\\WebUI\\wwwroot\\assets\\img\\h3-team-img-2.png",
       "SourceId": "WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Мухаммед\\Desktop\\WORKSPACE\\FloriaPr\\WebUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ClassTime\\Desktop\\WorkSpace\\MhmmdCodeHometasks\\New folder\\FloriaTask\\WebUI\\wwwroot\\",
       "BasePath": "_content/WebUI",
       "RelativePath": "assets/img/h3-team-img-2.png",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\h3-team-img-2.png"
     },
     {
-      "Identity": "C:\\Users\\Мухаммед\\Desktop\\WORKSPACE\\FloriaPr\\WebUI\\wwwroot\\assets\\img\\h3-team-img-3.png",
+      "Identity": "C:\\Users\\ClassTime\\Desktop\\WorkSpace\\MhmmdCodeHometasks\\New folder\\FloriaTask\\WebUI\\wwwroot\\assets\\img\\h3-team-img-3.png",
       "SourceId": "WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Мухаммед\\Desktop\\WORKSPACE\\FloriaPr\\WebUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ClassTime\\Desktop\\WorkSpace\\MhmmdCodeHometasks\\New folder\\FloriaTask\\WebUI\\wwwroot\\",
       "BasePath": "_content/WebUI",
       "RelativePath": "assets/img/h3-team-img-3.png",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\h3-team-img-3.png"
     },
     {
-      "Identity": "C:\\Users\\Мухаммед\\Desktop\\WORKSPACE\\FloriaPr\\WebUI\\wwwroot\\assets\\img\\h3-team-img-4.png",
+      "Identity": "C:\\Users\\ClassTime\\Desktop\\WorkSpace\\MhmmdCodeHometasks\\New folder\\FloriaTask\\WebUI\\wwwroot\\assets\\img\\h3-team-img-4.png",
       "SourceId": "WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Мухаммед\\Desktop\\WORKSPACE\\FloriaPr\\WebUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ClassTime\\Desktop\\WorkSpace\\MhmmdCodeHometasks\\New folder\\FloriaTask\\WebUI\\wwwroot\\",
       "BasePath": "_content/WebUI",
       "RelativePath": "assets/img/h3-team-img-4.png",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\h3-team-img-4.png"
     },
     {
-      "Identity": "C:\\Users\\Мухаммед\\Desktop\\WORKSPACE\\FloriaPr\\WebUI\\wwwroot\\assets\\img\\h3-video-img.jpg",
+      "Identity": "C:\\Users\\ClassTime\\Desktop\\WorkSpace\\MhmmdCodeHometasks\\New folder\\FloriaTask\\WebUI\\wwwroot\\assets\\img\\h3-video-img.jpg",
       "SourceId": "WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Мухаммед\\Desktop\\WORKSPACE\\FloriaPr\\WebUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ClassTime\\Desktop\\WorkSpace\\MhmmdCodeHometasks\\New folder\\FloriaTask\\WebUI\\wwwroot\\",
       "BasePath": "_content/WebUI",
       "RelativePath": "assets/img/h3-video-img.jpg",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\h3-video-img.jpg"
     },
     {
-      "Identity": "C:\\Users\\Мухаммед\\Desktop\\WORKSPACE\\FloriaPr\\WebUI\\wwwroot\\assets\\img\\instagram1.jpg",
+      "Identity": "C:\\Users\\ClassTime\\Desktop\\WorkSpace\\MhmmdCodeHometasks\\New folder\\FloriaTask\\WebUI\\wwwroot\\assets\\img\\instagram1.jpg",
       "SourceId": "WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Мухаммед\\Desktop\\WORKSPACE\\FloriaPr\\WebUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ClassTime\\Desktop\\WorkSpace\\MhmmdCodeHometasks\\New folder\\FloriaTask\\WebUI\\wwwroot\\",
       "BasePath": "_content/WebUI",
       "RelativePath": "assets/img/instagram1.jpg",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\instagram1.jpg"
     },
     {
-      "Identity": "C:\\Users\\Мухаммед\\Desktop\\WORKSPACE\\FloriaPr\\WebUI\\wwwroot\\assets\\img\\instagram2.jpg",
+      "Identity": "C:\\Users\\ClassTime\\Desktop\\WorkSpace\\MhmmdCodeHometasks\\New folder\\FloriaTask\\WebUI\\wwwroot\\assets\\img\\instagram2.jpg",
       "SourceId": "WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Мухаммед\\Desktop\\WORKSPACE\\FloriaPr\\WebUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ClassTime\\Desktop\\WorkSpace\\MhmmdCodeHometasks\\New folder\\FloriaTask\\WebUI\\wwwroot\\",
       "BasePath": "_content/WebUI",
       "RelativePath": "assets/img/instagram2.jpg",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\instagram2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Мухаммед\\Desktop\\WORKSPACE\\FloriaPr\\WebUI\\wwwroot\\assets\\img\\instagram3.jpg",
+      "Identity": "C:\\Users\\ClassTime\\Desktop\\WorkSpace\\MhmmdCodeHometasks\\New folder\\FloriaTask\\WebUI\\wwwroot\\assets\\img\\instagram3.jpg",
       "SourceId": "WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Мухаммед\\Desktop\\WORKSPACE\\FloriaPr\\WebUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ClassTime\\Desktop\\WorkSpace\\MhmmdCodeHometasks\\New folder\\FloriaTask\\WebUI\\wwwroot\\",
       "BasePath": "_content/WebUI",
       "RelativePath": "assets/img/instagram3.jpg",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\instagram3.jpg"
     },
     {
-      "Identity": "C:\\Users\\Мухаммед\\Desktop\\WORKSPACE\\FloriaPr\\WebUI\\wwwroot\\assets\\img\\instagram4.jpg",
+      "Identity": "C:\\Users\\ClassTime\\Desktop\\WorkSpace\\MhmmdCodeHometasks\\New folder\\FloriaTask\\WebUI\\wwwroot\\assets\\img\\instagram4.jpg",
       "SourceId": "WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Мухаммед\\Desktop\\WORKSPACE\\FloriaPr\\WebUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ClassTime\\Desktop\\WorkSpace\\MhmmdCodeHometasks\\New folder\\FloriaTask\\WebUI\\wwwroot\\",
       "BasePath": "_content/WebUI",
       "RelativePath": "assets/img/instagram4.jpg",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\instagram4.jpg"
     },
     {
-      "Identity": "C:\\Users\\Мухаммед\\Desktop\\WORKSPACE\\FloriaPr\\WebUI\\wwwroot\\assets\\img\\instagram5.jpg",
+      "Identity": "C:\\Users\\ClassTime\\Desktop\\WorkSpace\\MhmmdCodeHometasks\\New folder\\FloriaTask\\WebUI\\wwwroot\\assets\\img\\instagram5.jpg",
       "SourceId": "WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Мухаммед\\Desktop\\WORKSPACE\\FloriaPr\\WebUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ClassTime\\Desktop\\WorkSpace\\MhmmdCodeHometasks\\New folder\\FloriaTask\\WebUI\\wwwroot\\",
       "BasePath": "_content/WebUI",
       "RelativePath": "assets/img/instagram5.jpg",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\instagram5.jpg"
     },
     {
-      "Identity": "C:\\Users\\Мухаммед\\Desktop\\WORKSPACE\\FloriaPr\\WebUI\\wwwroot\\assets\\img\\instagram6.jpg",
+      "Identity": "C:\\Users\\ClassTime\\Desktop\\WorkSpace\\MhmmdCodeHometasks\\New folder\\FloriaTask\\WebUI\\wwwroot\\assets\\img\\instagram6.jpg",
       "SourceId": "WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Мухаммед\\Desktop\\WORKSPACE\\FloriaPr\\WebUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ClassTime\\Desktop\\WorkSpace\\MhmmdCodeHometasks\\New folder\\FloriaTask\\WebUI\\wwwroot\\",
       "BasePath": "_content/WebUI",
       "RelativePath": "assets/img/instagram6.jpg",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\instagram6.jpg"
     },
     {
-      "Identity": "C:\\Users\\Мухаммед\\Desktop\\WORKSPACE\\FloriaPr\\WebUI\\wwwroot\\assets\\img\\instagram7.jpg",
+      "Identity": "C:\\Users\\ClassTime\\Desktop\\WorkSpace\\MhmmdCodeHometasks\\New folder\\FloriaTask\\WebUI\\wwwroot\\assets\\img\\instagram7.jpg",
       "SourceId": "WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Мухаммед\\Desktop\\WORKSPACE\\FloriaPr\\WebUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ClassTime\\Desktop\\WorkSpace\\MhmmdCodeHometasks\\New folder\\FloriaTask\\WebUI\\wwwroot\\",
       "BasePath": "_content/WebUI",
       "RelativePath": "assets/img/instagram7.jpg",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\instagram7.jpg"
     },
     {
-      "Identity": "C:\\Users\\Мухаммед\\Desktop\\WORKSPACE\\FloriaPr\\WebUI\\wwwroot\\assets\\img\\instagram8.jpg",
+      "Identity": "C:\\Users\\ClassTime\\Desktop\\WorkSpace\\MhmmdCodeHometasks\\New folder\\FloriaTask\\WebUI\\wwwroot\\assets\\img\\instagram8.jpg",
       "SourceId": "WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Мухаммед\\Desktop\\WORKSPACE\\FloriaPr\\WebUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ClassTime\\Desktop\\WorkSpace\\MhmmdCodeHometasks\\New folder\\FloriaTask\\WebUI\\wwwroot\\",
       "BasePath": "_content/WebUI",
       "RelativePath": "assets/img/instagram8.jpg",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\instagram8.jpg"
     },
     {
-      "Identity": "C:\\Users\\Мухаммед\\Desktop\\WORKSPACE\\FloriaPr\\WebUI\\wwwroot\\assets\\img\\logo.png",
+      "Identity": "C:\\Users\\ClassTime\\Desktop\\WorkSpace\\MhmmdCodeHometasks\\New folder\\FloriaTask\\WebUI\\wwwroot\\assets\\img\\logo.png",
       "SourceId": "WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Мухаммед\\Desktop\\WORKSPACE\\FloriaPr\\WebUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ClassTime\\Desktop\\WorkSpace\\MhmmdCodeHometasks\\New folder\\FloriaTask\\WebUI\\wwwroot\\",
       "BasePath": "_content/WebUI",
       "RelativePath": "assets/img/logo.png",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\logo.png"
     },
     {
-      "Identity": "C:\\Users\\Мухаммед\\Desktop\\WORKSPACE\\FloriaPr\\WebUI\\wwwroot\\assets\\img\\shop-10-img.jpg",
+      "Identity": "C:\\Users\\ClassTime\\Desktop\\WorkSpace\\MhmmdCodeHometasks\\New folder\\FloriaTask\\WebUI\\wwwroot\\assets\\img\\shop-10-img.jpg",
       "SourceId": "WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Мухаммед\\Desktop\\WORKSPACE\\FloriaPr\\WebUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ClassTime\\Desktop\\WorkSpace\\MhmmdCodeHometasks\\New folder\\FloriaTask\\WebUI\\wwwroot\\",
       "BasePath": "_content/WebUI",
       "RelativePath": "assets/img/shop-10-img.jpg",
       "AssetKind": "All",
@@ -493,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\shop-10-img.jpg"
     },
     {
-      "Identity": "C:\\Users\\Мухаммед\\Desktop\\WORKSPACE\\FloriaPr\\WebUI\\wwwroot\\assets\\img\\shop-11-img.jpg",
+      "Identity": "C:\\Users\\ClassTime\\Desktop\\WorkSpace\\MhmmdCodeHometasks\\New folder\\FloriaTask\\WebUI\\wwwroot\\assets\\img\\shop-11-img.jpg",
       "SourceId": "WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Мухаммед\\Desktop\\WORKSPACE\\FloriaPr\\WebUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ClassTime\\Desktop\\WorkSpace\\MhmmdCodeHometasks\\New folder\\FloriaTask\\WebUI\\wwwroot\\",
       "BasePath": "_content/WebUI",
       "RelativePath": "assets/img/shop-11-img.jpg",
       "AssetKind": "All",
@@ -510,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\shop-11-img.jpg"
     },
     {
-      "Identity": "C:\\Users\\Мухаммед\\Desktop\\WORKSPACE\\FloriaPr\\WebUI\\wwwroot\\assets\\img\\shop-12-img.jpg",
+      "Identity": "C:\\Users\\ClassTime\\Desktop\\WorkSpace\\MhmmdCodeHometasks\\New folder\\FloriaTask\\WebUI\\wwwroot\\assets\\img\\shop-12-img.jpg",
       "SourceId": "WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Мухаммед\\Desktop\\WORKSPACE\\FloriaPr\\WebUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ClassTime\\Desktop\\WorkSpace\\MhmmdCodeHometasks\\New folder\\FloriaTask\\WebUI\\wwwroot\\",
       "BasePath": "_content/WebUI",
       "RelativePath": "assets/img/shop-12-img.jpg",
       "AssetKind": "All",
@@ -527,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\shop-12-img.jpg"
     },
     {
-      "Identity": "C:\\Users\\Мухаммед\\Desktop\\WORKSPACE\\FloriaPr\\WebUI\\wwwroot\\assets\\img\\shop-13-img.jpg",
+      "Identity": "C:\\Users\\ClassTime\\Desktop\\WorkSpace\\MhmmdCodeHometasks\\New folder\\FloriaTask\\WebUI\\wwwroot\\assets\\img\\shop-13-img.jpg",
       "SourceId": "WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Мухаммед\\Desktop\\WORKSPACE\\FloriaPr\\WebUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ClassTime\\Desktop\\WorkSpace\\MhmmdCodeHometasks\\New folder\\FloriaTask\\WebUI\\wwwroot\\",
       "BasePath": "_content/WebUI",
       "RelativePath": "assets/img/shop-13-img.jpg",
       "AssetKind": "All",
@@ -544,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\shop-13-img.jpg"
     },
     {
-      "Identity": "C:\\Users\\Мухаммед\\Desktop\\WORKSPACE\\FloriaPr\\WebUI\\wwwroot\\assets\\img\\shop-14-img.jpg",
+      "Identity": "C:\\Users\\ClassTime\\Desktop\\WorkSpace\\MhmmdCodeHometasks\\New folder\\FloriaTask\\WebUI\\wwwroot\\assets\\img\\shop-14-img.jpg",
       "SourceId": "WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Мухаммед\\Desktop\\WORKSPACE\\FloriaPr\\WebUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ClassTime\\Desktop\\WorkSpace\\MhmmdCodeHometasks\\New folder\\FloriaTask\\WebUI\\wwwroot\\",
       "BasePath": "_content/WebUI",
       "RelativePath": "assets/img/shop-14-img.jpg",
       "AssetKind": "All",
@@ -561,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\shop-14-img.jpg"
     },
     {
-      "Identity": "C:\\Users\\Мухаммед\\Desktop\\WORKSPACE\\FloriaPr\\WebUI\\wwwroot\\assets\\img\\shop-7-img.jpg",
+      "Identity": "C:\\Users\\ClassTime\\Desktop\\WorkSpace\\MhmmdCodeHometasks\\New folder\\FloriaTask\\WebUI\\wwwroot\\assets\\img\\shop-7-img.jpg",
       "SourceId": "WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Мухаммед\\Desktop\\WORKSPACE\\FloriaPr\\WebUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ClassTime\\Desktop\\WorkSpace\\MhmmdCodeHometasks\\New folder\\FloriaTask\\WebUI\\wwwroot\\",
       "BasePath": "_content/WebUI",
       "RelativePath": "assets/img/shop-7-img.jpg",
       "AssetKind": "All",
@@ -578,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\shop-7-img.jpg"
     },
     {
-      "Identity": "C:\\Users\\Мухаммед\\Desktop\\WORKSPACE\\FloriaPr\\WebUI\\wwwroot\\assets\\img\\shop-8-img.jpg",
+      "Identity": "C:\\Users\\ClassTime\\Desktop\\WorkSpace\\MhmmdCodeHometasks\\New folder\\FloriaTask\\WebUI\\wwwroot\\assets\\img\\shop-8-img.jpg",
       "SourceId": "WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Мухаммед\\Desktop\\WORKSPACE\\FloriaPr\\WebUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ClassTime\\Desktop\\WorkSpace\\MhmmdCodeHometasks\\New folder\\FloriaTask\\WebUI\\wwwroot\\",
       "BasePath": "_content/WebUI",
       "RelativePath": "assets/img/shop-8-img.jpg",
       "AssetKind": "All",
@@ -595,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\shop-8-img.jpg"
     },
     {
-      "Identity": "C:\\Users\\Мухаммед\\Desktop\\WORKSPACE\\FloriaPr\\WebUI\\wwwroot\\assets\\img\\shop-9-img.jpg",
+      "Identity": "C:\\Users\\ClassTime\\Desktop\\WorkSpace\\MhmmdCodeHometasks\\New folder\\FloriaTask\\WebUI\\wwwroot\\assets\\img\\shop-9-img.jpg",
       "SourceId": "WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Мухаммед\\Desktop\\WORKSPACE\\FloriaPr\\WebUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ClassTime\\Desktop\\WorkSpace\\MhmmdCodeHometasks\\New folder\\FloriaTask\\WebUI\\wwwroot\\",
       "BasePath": "_content/WebUI",
       "RelativePath": "assets/img/shop-9-img.jpg",
       "AssetKind": "All",
@@ -612,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\shop-9-img.jpg"
     },
     {
-      "Identity": "C:\\Users\\Мухаммед\\Desktop\\WORKSPACE\\FloriaPr\\WebUI\\wwwroot\\assets\\img\\shop-category-img-1.jpg",
+      "Identity": "C:\\Users\\ClassTime\\Desktop\\WorkSpace\\MhmmdCodeHometasks\\New folder\\FloriaTask\\WebUI\\wwwroot\\assets\\img\\shop-category-img-1.jpg",
       "SourceId": "WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Мухаммед\\Desktop\\WORKSPACE\\FloriaPr\\WebUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ClassTime\\Desktop\\WorkSpace\\MhmmdCodeHometasks\\New folder\\FloriaTask\\WebUI\\wwwroot\\",
       "BasePath": "_content/WebUI",
       "RelativePath": "assets/img/shop-category-img-1.jpg",
       "AssetKind": "All",
@@ -629,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\shop-category-img-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\Мухаммед\\Desktop\\WORKSPACE\\FloriaPr\\WebUI\\wwwroot\\assets\\img\\shop-category-img-2.jpg",
+      "Identity": "C:\\Users\\ClassTime\\Desktop\\WorkSpace\\MhmmdCodeHometasks\\New folder\\FloriaTask\\WebUI\\wwwroot\\assets\\img\\shop-category-img-2.jpg",
       "SourceId": "WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Мухаммед\\Desktop\\WORKSPACE\\FloriaPr\\WebUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ClassTime\\Desktop\\WorkSpace\\MhmmdCodeHometasks\\New folder\\FloriaTask\\WebUI\\wwwroot\\",
       "BasePath": "_content/WebUI",
       "RelativePath": "assets/img/shop-category-img-2.jpg",
       "AssetKind": "All",
@@ -646,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\shop-category-img-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Мухаммед\\Desktop\\WORKSPACE\\FloriaPr\\WebUI\\wwwroot\\assets\\img\\shop-category-img-3.jpg",
+      "Identity": "C:\\Users\\ClassTime\\Desktop\\WorkSpace\\MhmmdCodeHometasks\\New folder\\FloriaTask\\WebUI\\wwwroot\\assets\\img\\shop-category-img-3.jpg",
       "SourceId": "WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Мухаммед\\Desktop\\WORKSPACE\\FloriaPr\\WebUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ClassTime\\Desktop\\WorkSpace\\MhmmdCodeHometasks\\New folder\\FloriaTask\\WebUI\\wwwroot\\",
       "BasePath": "_content/WebUI",
       "RelativePath": "assets/img/shop-category-img-3.jpg",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\shop-category-img-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\Мухаммед\\Desktop\\WORKSPACE\\FloriaPr\\WebUI\\wwwroot\\assets\\img\\shop-category-img-4.jpg",
+      "Identity": "C:\\Users\\ClassTime\\Desktop\\WorkSpace\\MhmmdCodeHometasks\\New folder\\FloriaTask\\WebUI\\wwwroot\\assets\\img\\shop-category-img-4.jpg",
       "SourceId": "WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Мухаммед\\Desktop\\WORKSPACE\\FloriaPr\\WebUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ClassTime\\Desktop\\WorkSpace\\MhmmdCodeHometasks\\New folder\\FloriaTask\\WebUI\\wwwroot\\",
       "BasePath": "_content/WebUI",
       "RelativePath": "assets/img/shop-category-img-4.jpg",
       "AssetKind": "All",
@@ -680,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\shop-category-img-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\Мухаммед\\Desktop\\WORKSPACE\\FloriaPr\\WebUI\\wwwroot\\assets\\img\\shop-category-img-5.jpg",
+      "Identity": "C:\\Users\\ClassTime\\Desktop\\WorkSpace\\MhmmdCodeHometasks\\New folder\\FloriaTask\\WebUI\\wwwroot\\assets\\img\\shop-category-img-5.jpg",
       "SourceId": "WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Мухаммед\\Desktop\\WORKSPACE\\FloriaPr\\WebUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ClassTime\\Desktop\\WorkSpace\\MhmmdCodeHometasks\\New folder\\FloriaTask\\WebUI\\wwwroot\\",
       "BasePath": "_content/WebUI",
       "RelativePath": "assets/img/shop-category-img-5.jpg",
       "AssetKind": "All",
@@ -697,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\shop-category-img-5.jpg"
     },
     {
-      "Identity": "C:\\Users\\Мухаммед\\Desktop\\WORKSPACE\\FloriaPr\\WebUI\\wwwroot\\assets\\img\\shop-category-img-6.jpg",
+      "Identity": "C:\\Users\\ClassTime\\Desktop\\WorkSpace\\MhmmdCodeHometasks\\New folder\\FloriaTask\\WebUI\\wwwroot\\assets\\img\\shop-category-img-6.jpg",
       "SourceId": "WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Мухаммед\\Desktop\\WORKSPACE\\FloriaPr\\WebUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ClassTime\\Desktop\\WorkSpace\\MhmmdCodeHometasks\\New folder\\FloriaTask\\WebUI\\wwwroot\\",
       "BasePath": "_content/WebUI",
       "RelativePath": "assets/img/shop-category-img-6.jpg",
       "AssetKind": "All",
@@ -714,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\shop-category-img-6.jpg"
     },
     {
-      "Identity": "C:\\Users\\Мухаммед\\Desktop\\WORKSPACE\\FloriaPr\\WebUI\\wwwroot\\assets\\img\\testimonial-img-1.png",
+      "Identity": "C:\\Users\\ClassTime\\Desktop\\WorkSpace\\MhmmdCodeHometasks\\New folder\\FloriaTask\\WebUI\\wwwroot\\assets\\img\\testimonial-img-1.png",
       "SourceId": "WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Мухаммед\\Desktop\\WORKSPACE\\FloriaPr\\WebUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ClassTime\\Desktop\\WorkSpace\\MhmmdCodeHometasks\\New folder\\FloriaTask\\WebUI\\wwwroot\\",
       "BasePath": "_content/WebUI",
       "RelativePath": "assets/img/testimonial-img-1.png",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\testimonial-img-1.png"
     },
     {
-      "Identity": "C:\\Users\\Мухаммед\\Desktop\\WORKSPACE\\FloriaPr\\WebUI\\wwwroot\\assets\\img\\testimonial-img-2.png",
+      "Identity": "C:\\Users\\ClassTime\\Desktop\\WorkSpace\\MhmmdCodeHometasks\\New folder\\FloriaTask\\WebUI\\wwwroot\\assets\\img\\testimonial-img-2.png",
       "SourceId": "WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Мухаммед\\Desktop\\WORKSPACE\\FloriaPr\\WebUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ClassTime\\Desktop\\WorkSpace\\MhmmdCodeHometasks\\New folder\\FloriaTask\\WebUI\\wwwroot\\",
       "BasePath": "_content/WebUI",
       "RelativePath": "assets/img/testimonial-img-2.png",
       "AssetKind": "All",
@@ -748,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\testimonial-img-2.png"
     },
     {
-      "Identity": "C:\\Users\\Мухаммед\\Desktop\\WORKSPACE\\FloriaPr\\WebUI\\wwwroot\\assets\\js\\script.js",
+      "Identity": "C:\\Users\\ClassTime\\Desktop\\WorkSpace\\MhmmdCodeHometasks\\New folder\\FloriaTask\\WebUI\\wwwroot\\assets\\js\\script.js",
       "SourceId": "WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Мухаммед\\Desktop\\WORKSPACE\\FloriaPr\\WebUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ClassTime\\Desktop\\WorkSpace\\MhmmdCodeHometasks\\New folder\\FloriaTask\\WebUI\\wwwroot\\",
       "BasePath": "_content/WebUI",
       "RelativePath": "assets/js/script.js",
       "AssetKind": "All",
@@ -765,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\script.js"
     },
     {
-      "Identity": "C:\\Users\\Мухаммед\\Desktop\\WORKSPACE\\FloriaPr\\WebUI\\wwwroot\\assets\\owlcarousel\\owl.carousel.min.css",
+      "Identity": "C:\\Users\\ClassTime\\Desktop\\WorkSpace\\MhmmdCodeHometasks\\New folder\\FloriaTask\\WebUI\\wwwroot\\assets\\owlcarousel\\owl.carousel.min.css",
       "SourceId": "WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Мухаммед\\Desktop\\WORKSPACE\\FloriaPr\\WebUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ClassTime\\Desktop\\WorkSpace\\MhmmdCodeHometasks\\New folder\\FloriaTask\\WebUI\\wwwroot\\",
       "BasePath": "_content/WebUI",
       "RelativePath": "assets/owlcarousel/owl.carousel.min.css",
       "AssetKind": "All",
@@ -782,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\owlcarousel\\owl.carousel.min.css"
     },
     {
-      "Identity": "C:\\Users\\Мухаммед\\Desktop\\WORKSPACE\\FloriaPr\\WebUI\\wwwroot\\assets\\owlcarousel\\owl.carousel.min.js",
+      "Identity": "C:\\Users\\ClassTime\\Desktop\\WorkSpace\\MhmmdCodeHometasks\\New folder\\FloriaTask\\WebUI\\wwwroot\\assets\\owlcarousel\\owl.carousel.min.js",
       "SourceId": "WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Мухаммед\\Desktop\\WORKSPACE\\FloriaPr\\WebUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ClassTime\\Desktop\\WorkSpace\\MhmmdCodeHometasks\\New folder\\FloriaTask\\WebUI\\wwwroot\\",
       "BasePath": "_content/WebUI",
       "RelativePath": "assets/owlcarousel/owl.carousel.min.js",
       "AssetKind": "All",
@@ -799,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\owlcarousel\\owl.carousel.min.js"
     },
     {
-      "Identity": "C:\\Users\\Мухаммед\\Desktop\\WORKSPACE\\FloriaPr\\WebUI\\wwwroot\\assets\\owlcarousel\\owl.theme.default.min.css",
+      "Identity": "C:\\Users\\ClassTime\\Desktop\\WorkSpace\\MhmmdCodeHometasks\\New folder\\FloriaTask\\WebUI\\wwwroot\\assets\\owlcarousel\\owl.theme.default.min.css",
       "SourceId": "WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Мухаммед\\Desktop\\WORKSPACE\\FloriaPr\\WebUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ClassTime\\Desktop\\WorkSpace\\MhmmdCodeHometasks\\New folder\\FloriaTask\\WebUI\\wwwroot\\",
       "BasePath": "_content/WebUI",
       "RelativePath": "assets/owlcarousel/owl.theme.default.min.css",
       "AssetKind": "All",
@@ -816,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\owlcarousel\\owl.theme.default.min.css"
     },
     {
-      "Identity": "C:\\Users\\Мухаммед\\Desktop\\WORKSPACE\\FloriaPr\\WebUI\\wwwroot\\assets\\sass\\lib\\_common.scss",
+      "Identity": "C:\\Users\\ClassTime\\Desktop\\WorkSpace\\MhmmdCodeHometasks\\New folder\\FloriaTask\\WebUI\\wwwroot\\assets\\sass\\lib\\_common.scss",
       "SourceId": "WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Мухаммед\\Desktop\\WORKSPACE\\FloriaPr\\WebUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ClassTime\\Desktop\\WorkSpace\\MhmmdCodeHometasks\\New folder\\FloriaTask\\WebUI\\wwwroot\\",
       "BasePath": "_content/WebUI",
       "RelativePath": "assets/sass/lib/_common.scss",
       "AssetKind": "All",
@@ -833,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\sass\\lib\\_common.scss"
     },
     {
-      "Identity": "C:\\Users\\Мухаммед\\Desktop\\WORKSPACE\\FloriaPr\\WebUI\\wwwroot\\assets\\sass\\lib\\_mixins.scss",
+      "Identity": "C:\\Users\\ClassTime\\Desktop\\WorkSpace\\MhmmdCodeHometasks\\New folder\\FloriaTask\\WebUI\\wwwroot\\assets\\sass\\lib\\_mixins.scss",
       "SourceId": "WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Мухаммед\\Desktop\\WORKSPACE\\FloriaPr\\WebUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ClassTime\\Desktop\\WorkSpace\\MhmmdCodeHometasks\\New folder\\FloriaTask\\WebUI\\wwwroot\\",
       "BasePath": "_content/WebUI",
       "RelativePath": "assets/sass/lib/_mixins.scss",
       "AssetKind": "All",
@@ -850,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\sass\\lib\\_mixins.scss"
     },
     {
-      "Identity": "C:\\Users\\Мухаммед\\Desktop\\WORKSPACE\\FloriaPr\\WebUI\\wwwroot\\assets\\sass\\lib\\_varibales.scss",
+      "Identity": "C:\\Users\\ClassTime\\Desktop\\WorkSpace\\MhmmdCodeHometasks\\New folder\\FloriaTask\\WebUI\\wwwroot\\assets\\sass\\lib\\_varibales.scss",
       "SourceId": "WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Мухаммед\\Desktop\\WORKSPACE\\FloriaPr\\WebUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ClassTime\\Desktop\\WorkSpace\\MhmmdCodeHometasks\\New folder\\FloriaTask\\WebUI\\wwwroot\\",
       "BasePath": "_content/WebUI",
       "RelativePath": "assets/sass/lib/_varibales.scss",
       "AssetKind": "All",
@@ -867,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\sass\\lib\\_varibales.scss"
     },
     {
-      "Identity": "C:\\Users\\Мухаммед\\Desktop\\WORKSPACE\\FloriaPr\\WebUI\\wwwroot\\assets\\sass\\sections\\_about.scss",
+      "Identity": "C:\\Users\\ClassTime\\Desktop\\WorkSpace\\MhmmdCodeHometasks\\New folder\\FloriaTask\\WebUI\\wwwroot\\assets\\sass\\sections\\_about.scss",
       "SourceId": "WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Мухаммед\\Desktop\\WORKSPACE\\FloriaPr\\WebUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ClassTime\\Desktop\\WorkSpace\\MhmmdCodeHometasks\\New folder\\FloriaTask\\WebUI\\wwwroot\\",
       "BasePath": "_content/WebUI",
       "RelativePath": "assets/sass/sections/_about.scss",
       "AssetKind": "All",
@@ -884,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\sass\\sections\\_about.scss"
     },
     {
-      "Identity": "C:\\Users\\Мухаммед\\Desktop\\WORKSPACE\\FloriaPr\\WebUI\\wwwroot\\assets\\sass\\sections\\_accordion.scss",
+      "Identity": "C:\\Users\\ClassTime\\Desktop\\WorkSpace\\MhmmdCodeHometasks\\New folder\\FloriaTask\\WebUI\\wwwroot\\assets\\sass\\sections\\_accordion.scss",
       "SourceId": "WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Мухаммед\\Desktop\\WORKSPACE\\FloriaPr\\WebUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ClassTime\\Desktop\\WorkSpace\\MhmmdCodeHometasks\\New folder\\FloriaTask\\WebUI\\wwwroot\\",
       "BasePath": "_content/WebUI",
       "RelativePath": "assets/sass/sections/_accordion.scss",
       "AssetKind": "All",
@@ -901,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\sass\\sections\\_accordion.scss"
     },
     {
-      "Identity": "C:\\Users\\Мухаммед\\Desktop\\WORKSPACE\\FloriaPr\\WebUI\\wwwroot\\assets\\sass\\sections\\_blog.scss",
+      "Identity": "C:\\Users\\ClassTime\\Desktop\\WorkSpace\\MhmmdCodeHometasks\\New folder\\FloriaTask\\WebUI\\wwwroot\\assets\\sass\\sections\\_blog.scss",
       "SourceId": "WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Мухаммед\\Desktop\\WORKSPACE\\FloriaPr\\WebUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ClassTime\\Desktop\\WorkSpace\\MhmmdCodeHometasks\\New folder\\FloriaTask\\WebUI\\wwwroot\\",
       "BasePath": "_content/WebUI",
       "RelativePath": "assets/sass/sections/_blog.scss",
       "AssetKind": "All",
@@ -918,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\sass\\sections\\_blog.scss"
     },
     {
-      "Identity": "C:\\Users\\Мухаммед\\Desktop\\WORKSPACE\\FloriaPr\\WebUI\\wwwroot\\assets\\sass\\sections\\_experts.scss",
+      "Identity": "C:\\Users\\ClassTime\\Desktop\\WorkSpace\\MhmmdCodeHometasks\\New folder\\FloriaTask\\WebUI\\wwwroot\\assets\\sass\\sections\\_experts.scss",
       "SourceId": "WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Мухаммед\\Desktop\\WORKSPACE\\FloriaPr\\WebUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ClassTime\\Desktop\\WorkSpace\\MhmmdCodeHometasks\\New folder\\FloriaTask\\WebUI\\wwwroot\\",
       "BasePath": "_content/WebUI",
       "RelativePath": "assets/sass/sections/_experts.scss",
       "AssetKind": "All",
@@ -935,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\sass\\sections\\_experts.scss"
     },
     {
-      "Identity": "C:\\Users\\Мухаммед\\Desktop\\WORKSPACE\\FloriaPr\\WebUI\\wwwroot\\assets\\sass\\sections\\_footer.scss",
+      "Identity": "C:\\Users\\ClassTime\\Desktop\\WorkSpace\\MhmmdCodeHometasks\\New folder\\FloriaTask\\WebUI\\wwwroot\\assets\\sass\\sections\\_footer.scss",
       "SourceId": "WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Мухаммед\\Desktop\\WORKSPACE\\FloriaPr\\WebUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ClassTime\\Desktop\\WorkSpace\\MhmmdCodeHometasks\\New folder\\FloriaTask\\WebUI\\wwwroot\\",
       "BasePath": "_content/WebUI",
       "RelativePath": "assets/sass/sections/_footer.scss",
       "AssetKind": "All",
@@ -952,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\sass\\sections\\_footer.scss"
     },
     {
-      "Identity": "C:\\Users\\Мухаммед\\Desktop\\WORKSPACE\\FloriaPr\\WebUI\\wwwroot\\assets\\sass\\sections\\_header.scss",
+      "Identity": "C:\\Users\\ClassTime\\Desktop\\WorkSpace\\MhmmdCodeHometasks\\New folder\\FloriaTask\\WebUI\\wwwroot\\assets\\sass\\sections\\_header.scss",
       "SourceId": "WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Мухаммед\\Desktop\\WORKSPACE\\FloriaPr\\WebUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ClassTime\\Desktop\\WorkSpace\\MhmmdCodeHometasks\\New folder\\FloriaTask\\WebUI\\wwwroot\\",
       "BasePath": "_content/WebUI",
       "RelativePath": "assets/sass/sections/_header.scss",
       "AssetKind": "All",
@@ -969,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\sass\\sections\\_header.scss"
     },
     {
-      "Identity": "C:\\Users\\Мухаммед\\Desktop\\WORKSPACE\\FloriaPr\\WebUI\\wwwroot\\assets\\sass\\sections\\_instagram.scss",
+      "Identity": "C:\\Users\\ClassTime\\Desktop\\WorkSpace\\MhmmdCodeHometasks\\New folder\\FloriaTask\\WebUI\\wwwroot\\assets\\sass\\sections\\_instagram.scss",
       "SourceId": "WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Мухаммед\\Desktop\\WORKSPACE\\FloriaPr\\WebUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ClassTime\\Desktop\\WorkSpace\\MhmmdCodeHometasks\\New folder\\FloriaTask\\WebUI\\wwwroot\\",
       "BasePath": "_content/WebUI",
       "RelativePath": "assets/sass/sections/_instagram.scss",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\sass\\sections\\_instagram.scss"
     },
     {
-      "Identity": "C:\\Users\\Мухаммед\\Desktop\\WORKSPACE\\FloriaPr\\WebUI\\wwwroot\\assets\\sass\\sections\\_product.scss",
+      "Identity": "C:\\Users\\ClassTime\\Desktop\\WorkSpace\\MhmmdCodeHometasks\\New folder\\FloriaTask\\WebUI\\wwwroot\\assets\\sass\\sections\\_product.scss",
       "SourceId": "WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Мухаммед\\Desktop\\WORKSPACE\\FloriaPr\\WebUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ClassTime\\Desktop\\WorkSpace\\MhmmdCodeHometasks\\New folder\\FloriaTask\\WebUI\\wwwroot\\",
       "BasePath": "_content/WebUI",
       "RelativePath": "assets/sass/sections/_product.scss",
       "AssetKind": "All",
@@ -1003,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\sass\\sections\\_product.scss"
     },
     {
-      "Identity": "C:\\Users\\Мухаммед\\Desktop\\WORKSPACE\\FloriaPr\\WebUI\\wwwroot\\assets\\sass\\sections\\_product-list.scss",
+      "Identity": "C:\\Users\\ClassTime\\Desktop\\WorkSpace\\MhmmdCodeHometasks\\New folder\\FloriaTask\\WebUI\\wwwroot\\assets\\sass\\sections\\_product-list.scss",
       "SourceId": "WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Мухаммед\\Desktop\\WORKSPACE\\FloriaPr\\WebUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ClassTime\\Desktop\\WorkSpace\\MhmmdCodeHometasks\\New folder\\FloriaTask\\WebUI\\wwwroot\\",
       "BasePath": "_content/WebUI",
       "RelativePath": "assets/sass/sections/_product-list.scss",
       "AssetKind": "All",
@@ -1020,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\sass\\sections\\_product-list.scss"
     },
     {
-      "Identity": "C:\\Users\\Мухаммед\\Desktop\\WORKSPACE\\FloriaPr\\WebUI\\wwwroot\\assets\\sass\\sections\\_progress.scss",
+      "Identity": "C:\\Users\\ClassTime\\Desktop\\WorkSpace\\MhmmdCodeHometasks\\New folder\\FloriaTask\\WebUI\\wwwroot\\assets\\sass\\sections\\_progress.scss",
       "SourceId": "WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Мухаммед\\Desktop\\WORKSPACE\\FloriaPr\\WebUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ClassTime\\Desktop\\WorkSpace\\MhmmdCodeHometasks\\New folder\\FloriaTask\\WebUI\\wwwroot\\",
       "BasePath": "_content/WebUI",
       "RelativePath": "assets/sass/sections/_progress.scss",
       "AssetKind": "All",
@@ -1037,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\sass\\sections\\_progress.scss"
     },
     {
-      "Identity": "C:\\Users\\Мухаммед\\Desktop\\WORKSPACE\\FloriaPr\\WebUI\\wwwroot\\assets\\sass\\sections\\_say.scss",
+      "Identity": "C:\\Users\\ClassTime\\Desktop\\WorkSpace\\MhmmdCodeHometasks\\New folder\\FloriaTask\\WebUI\\wwwroot\\assets\\sass\\sections\\_say.scss",
       "SourceId": "WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Мухаммед\\Desktop\\WORKSPACE\\FloriaPr\\WebUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ClassTime\\Desktop\\WorkSpace\\MhmmdCodeHometasks\\New folder\\FloriaTask\\WebUI\\wwwroot\\",
       "BasePath": "_content/WebUI",
       "RelativePath": "assets/sass/sections/_say.scss",
       "AssetKind": "All",
@@ -1054,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\sass\\sections\\_say.scss"
     },
     {
-      "Identity": "C:\\Users\\Мухаммед\\Desktop\\WORKSPACE\\FloriaPr\\WebUI\\wwwroot\\assets\\sass\\sections\\_shop-list.scss",
+      "Identity": "C:\\Users\\ClassTime\\Desktop\\WorkSpace\\MhmmdCodeHometasks\\New folder\\FloriaTask\\WebUI\\wwwroot\\assets\\sass\\sections\\_shop-list.scss",
       "SourceId": "WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Мухаммед\\Desktop\\WORKSPACE\\FloriaPr\\WebUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ClassTime\\Desktop\\WorkSpace\\MhmmdCodeHometasks\\New folder\\FloriaTask\\WebUI\\wwwroot\\",
       "BasePath": "_content/WebUI",
       "RelativePath": "assets/sass/sections/_shop-list.scss",
       "AssetKind": "All",
@@ -1071,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\sass\\sections\\_shop-list.scss"
     },
     {
-      "Identity": "C:\\Users\\Мухаммед\\Desktop\\WORKSPACE\\FloriaPr\\WebUI\\wwwroot\\assets\\sass\\sections\\_slider.scss",
+      "Identity": "C:\\Users\\ClassTime\\Desktop\\WorkSpace\\MhmmdCodeHometasks\\New folder\\FloriaTask\\WebUI\\wwwroot\\assets\\sass\\sections\\_slider.scss",
       "SourceId": "WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Мухаммед\\Desktop\\WORKSPACE\\FloriaPr\\WebUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ClassTime\\Desktop\\WorkSpace\\MhmmdCodeHometasks\\New folder\\FloriaTask\\WebUI\\wwwroot\\",
       "BasePath": "_content/WebUI",
       "RelativePath": "assets/sass/sections/_slider.scss",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\sass\\sections\\_slider.scss"
     },
     {
-      "Identity": "C:\\Users\\Мухаммед\\Desktop\\WORKSPACE\\FloriaPr\\WebUI\\wwwroot\\assets\\sass\\sections\\_subscribe.scss",
+      "Identity": "C:\\Users\\ClassTime\\Desktop\\WorkSpace\\MhmmdCodeHometasks\\New folder\\FloriaTask\\WebUI\\wwwroot\\assets\\sass\\sections\\_subscribe.scss",
       "SourceId": "WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Мухаммед\\Desktop\\WORKSPACE\\FloriaPr\\WebUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ClassTime\\Desktop\\WorkSpace\\MhmmdCodeHometasks\\New folder\\FloriaTask\\WebUI\\wwwroot\\",
       "BasePath": "_content/WebUI",
       "RelativePath": "assets/sass/sections/_subscribe.scss",
       "AssetKind": "All",
@@ -1105,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\sass\\sections\\_subscribe.scss"
     },
     {
-      "Identity": "C:\\Users\\Мухаммед\\Desktop\\WORKSPACE\\FloriaPr\\WebUI\\wwwroot\\assets\\sass\\sections\\_tab.scss",
+      "Identity": "C:\\Users\\ClassTime\\Desktop\\WorkSpace\\MhmmdCodeHometasks\\New folder\\FloriaTask\\WebUI\\wwwroot\\assets\\sass\\sections\\_tab.scss",
       "SourceId": "WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Мухаммед\\Desktop\\WORKSPACE\\FloriaPr\\WebUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ClassTime\\Desktop\\WorkSpace\\MhmmdCodeHometasks\\New folder\\FloriaTask\\WebUI\\wwwroot\\",
       "BasePath": "_content/WebUI",
       "RelativePath": "assets/sass/sections/_tab.scss",
       "AssetKind": "All",
@@ -1122,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\sass\\sections\\_tab.scss"
     },
     {
-      "Identity": "C:\\Users\\Мухаммед\\Desktop\\WORKSPACE\\FloriaPr\\WebUI\\wwwroot\\assets\\sass\\style.scss",
+      "Identity": "C:\\Users\\ClassTime\\Desktop\\WorkSpace\\MhmmdCodeHometasks\\New folder\\FloriaTask\\WebUI\\wwwroot\\assets\\sass\\style.scss",
       "SourceId": "WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Мухаммед\\Desktop\\WORKSPACE\\FloriaPr\\WebUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ClassTime\\Desktop\\WorkSpace\\MhmmdCodeHometasks\\New folder\\FloriaTask\\WebUI\\wwwroot\\",
       "BasePath": "_content/WebUI",
       "RelativePath": "assets/sass/style.scss",
       "AssetKind": "All",
